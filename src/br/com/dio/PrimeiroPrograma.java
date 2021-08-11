@@ -14,6 +14,7 @@ public class PrimeiroPrograma {
 		
 //		System.out.println("Hello World! " + a + b);
 		System.out.println(gato);
+		System.out.println(livro);
 		
 	}
 }
